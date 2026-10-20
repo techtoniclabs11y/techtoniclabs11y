@@ -1,6 +1,13 @@
-            {
-"version": "1.2.1",
-"download_url": "https://github.com/1212-jp/Techtonic-Labs/releases/download/v1.2.1/Labs-Vault-Setup.exe",
-"release_notes": "new settings added and button more accessible",
+{
+  "version": "1.3",
+  "download_url": "https://1212-jp.github.io/Techtonic-Labs/LabsVault_Setup.exe",
+  "release_notes": "Labs Vault security improvements and bug fixes.",
+  "mandatory": false,
+
+  "tmusic": {
+    "version": "1.0",
+    "download_url": "https://1212-jp.github.io/Techtonic-Labs/TMusic_Setup.exe",
+    "release_notes": "1. Added accessible Seek Slider.\n2. Added Apple voice search chimes.\n3. Strict link validation for playlists and channels.",
     "mandatory": false
-}                
+  }
+}

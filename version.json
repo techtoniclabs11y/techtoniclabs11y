@@ -5,9 +5,9 @@
   "mandatory": false,
 
   "tmusic": {
-    "version": "1.0",
+    "version": "1.1",
     "download_url": "https://1212-jp.github.io/Techtonic-Labs/TMusic_Setup.exe",
-    "release_notes": "1. Added accessible Seek Slider.\n2. Added Apple voice search chimes.\n3. Strict link validation for playlists and channels.",
+    "release_notes":" Added vocal remover Feature.\n Player settings added\n And minor bug changes.",
     "mandatory": false
   }
 }
